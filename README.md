@@ -1,4 +1,4 @@
-Start a prohject about the biography and CV.
+Start a project about the biography and CV.
 
 
 APPCV
